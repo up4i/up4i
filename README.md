@@ -1,43 +1,57 @@
-<h1>
-  <u>
-  Welcome to Sleep's WRLD!
-  </u>
-</h1>
+<h1 align="center">up4i</h1>
+<p align="center">
+  <em>ogkush · wrk · sleep · slept · terpenoid · wakenbake · deathwish · typhoon</em>
+</p>
 
-<!-- !GITHUB STATS! -->
+<p align="center">
+  Cybersecurity student &nbsp;·&nbsp; Linux nerd &nbsp;·&nbsp; AI builder &nbsp;·&nbsp; TON ecosystem
+</p>
+
+<p align="center">
+  <a href="https://wrk.money">wrk.money</a> &nbsp;·&nbsp; <a href="https://instagram.com/up4i">instagram</a>
+</p>
+
+---
+
+<!-- STATS -->
 <div align="center">
-<h1>
-My Github Stats!
-</h1>
-<a href="https://github.com/Sl66p"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sl66p&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Sleep Does Github" /></a>  <a href="https://github.com/Sl66p"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sl66p&layout=compact&theme=onedark&hide_border=true" /></a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=up4i&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=up4i&layout=compact&theme=onedark&hide_border=true" />
 </div>
 
-<!-- !ABOUT ME! -->
-<section id="about me" class="h2">
-  <h2>About Me...</h2>
-  <p>
-    My Name is Sleep, I'm a cybersecurity advocate, I develop scripts for multiple types of hacking tools!
-  </p>
-  <p>
-    I've also competed in the First Robotics Competition, as well as Cyberpatriot OS Hardening and Packet Tracking Competition.
-  </p>
-  <p>
-    Highly interested in physical security and pentesting. 
-  </p>
-</section>
-  
-<!-- !Tools! -->
-<section id="tools" class="h2">
-  <h2>Tools I own and use :)</h2>
-  <ul>
-    <li>O.MG Plug</li>
-    <li>Hak5 KeyCroc</li>
-    <li>Hak5 USB Rubber Ducky</li>
-    <li>Wifi Pineapple</li>
-    <li>Flipper Zero</li>
-    <li>Pwnagotchi, nicknamed "Tiredgotchi", look for me in "Newborns" on PWNMap! :) <a href="https://pwnagotchi.ai/" target="_blank">(PWNagotchi link)</a></li>
-  </ul>
-  <p>
-     I also teach how to make a raspberry pi pico into a device that works similar to the Rubber Ducky! Check my repos!
-        <a href="https://github.com/Sl66p/Ras-Pi-Pico-HID-Manipulator" target="_blank">Ras Pi Ducky :)</a>
-  </p>
+---
+
+## About
+
+Cybersecurity student who lives in the terminal. I build AI-powered tools and automations, follow the TON ecosystem closely, and run a multi-agent Claude system that handles daily briefings, price alerts, and on-demand Telegram commands.
+
+Running EndeavourOS (Arch) + KDE Plasma. RTX 5060. Kitty terminal. Everything in the shell. Dual-booted with Windows 10 for gaming.
+
+---
+
+## Active Projects
+
+| Project | What it is |
+|---|---|
+| **wrk.money** | Personal website with tools and an about page |
+| **wrkshelperbot** | Telegram bot — currency exchange, TypeBattle, weather, inline queries |
+
+---
+
+## Stack
+
+**Languages:** Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Bash  
+**Tools:** FastAPI &nbsp;·&nbsp; Telegram Bot API &nbsp;·&nbsp; Claude API &nbsp;·&nbsp; systemd &nbsp;·&nbsp; git  
+**Environment:** Arch Linux &nbsp;·&nbsp; Zsh &nbsp;·&nbsp; KDE Plasma &nbsp;·&nbsp; VS Code  
+**Interests:** Offensive security &nbsp;·&nbsp; LLM tooling &nbsp;·&nbsp; TON blockchain
+
+---
+
+## Hardware
+
+- O.MG Plug
+- Hak5 KeyCroc
+- Hak5 USB Rubber Ducky
+
+---
