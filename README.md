@@ -15,9 +15,7 @@
 
 <!-- STATS -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=up4i&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=up4i&layout=compact&theme=onedark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=up4i&theme=onedark&hide_borde+r=true" />  
 </div>
 
 ---
