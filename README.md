@@ -24,9 +24,9 @@
 
 ## About
 
-Cybersecurity student who lives in the terminal. I build AI-powered tools and automations, follow the TON ecosystem closely, and run a multi-agent Claude system that handles daily briefings, price alerts, and on-demand Telegram commands.
+Cybersecurity student who lives in the terminal. I build AI-powered tools and automations & follow the TON ecosystem closely.
 
-Running EndeavourOS (Arch) + KDE Plasma. RTX 5060. Kitty terminal. Everything in the shell. Dual-booted with Windows 10 for gaming.
+Running EndeavourOS (Arch) + KDE Plasma & Win 10 (for games)
 
 ---
 
@@ -34,7 +34,7 @@ Running EndeavourOS (Arch) + KDE Plasma. RTX 5060. Kitty terminal. Everything in
 
 | Project | What it is |
 |---|---|
-| **wrk.money** | Personal website with tools and an about page |
+| **wrk.money** | Webcard site / site that hosts some of my projects |
 | **wrkshelperbot** | Telegram bot — currency exchange, TypeBattle, weather, inline queries |
 
 ---
@@ -48,7 +48,7 @@ Running EndeavourOS (Arch) + KDE Plasma. RTX 5060. Kitty terminal. Everything in
 
 ---
 
-## Hardware
+## Tools I Own
 
 - O.MG Plug
 - Hak5 KeyCroc
