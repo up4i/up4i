@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wrk.money">wrk.money</a> &nbsp;·&nbsp; <a href="https://instagram.com/ogkush">telegram</a>
+  <a href="https://wrk.money">wrk.money</a> &nbsp;·&nbsp; <a href="https://t.me/ogkush">telegram</a>
 </p>
 
 ---
