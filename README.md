@@ -34,6 +34,7 @@ Running EndeavourOS (Arch) + KDE Plasma & Win 10 (for games)
 |---|---|
 | **wrk.money** | Webcard site / site that hosts some of my projects |
 | **wrkshelperbot** | Telegram bot — currency exchange, TypeBattle, weather, inline queries |
+| **Clue.tg** | Telegram gift search and analysis tool. |
 
 ---
 
