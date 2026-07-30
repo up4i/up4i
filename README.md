@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm up4i aka ogkush!</h1>
+<h1 align="center">Hey, I'm up4i!</h1>
 
 <p align="center">
   <strong>Full-stack developer · Cybersecurity student · Linux enthusiast</strong>
