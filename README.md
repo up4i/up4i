@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <sub>ogkush · wrk · sleep · slept · terpenoid · wakenbake · deathwish · typhoon</sub>
+  <sub>ogkush · wrk · sleep · slept · wakenbake · deathwish · typhoon</sub>
 </p>
 
 ---
